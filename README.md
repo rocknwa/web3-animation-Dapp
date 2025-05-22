@@ -73,6 +73,7 @@ Create a `.env` file in the root directory and add:
 VRF_ADDRESS=<chainlink-vrf-coordinator-address>
 SUB_ID=<chainlink-vrf-subscription-id>
 KEY_HASH=<chainlink-vrf-key-hash>
+PRIVATE_KEY=<meta mask private key>
 ```
 
 #### 4. Deploy the Contract
